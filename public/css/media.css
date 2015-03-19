@@ -1,0 +1,190 @@
+@media screen and (min-width:1280px) {
+    #YDPTInner {
+        width: 1040px;
+    }
+
+    .wrp {
+        width: 1040px;
+    }
+    div.userCenter-wrap{
+        width: 1040px;
+    }
+    div.course-index-content{
+        width: 1040px;
+    }
+    div.tag-text-btn-con{
+        width: 1040px;
+    }
+    div.course-index-slide{
+        width:1040px;
+        margin-top:3px;
+    }
+    .speaking-page .course-slide-list{
+        width:1040px;
+        height:280px;
+    }
+    #courseSelectCover{
+        width:1000px;
+    }
+    .index-banner{
+        width:1040px;
+    }
+}
+
+@media screen and (max-width:1280px) {
+    #YDPTInner {
+        width: 1040px;
+    }
+
+    .wrp {
+        width: 1040px
+    }
+    div.userCenter-wrap{
+        width: 1040px
+    }
+    div.course-index-content{
+        width: 1040px;
+    }
+    div.tag-text-btn-con{
+        width: 1040px;
+    }
+    div.course-index-slide{
+        width:1040px;
+        margin-top:3px;
+    }
+   .speaking-page .course-slide-list{
+        width:1040px;
+        height:280px;
+   }
+   #courseSelectCover{
+        width:1000px;
+   }
+   .index-banner{
+        width:1040px;
+   }
+}
+
+
+@media screen and (max-width:1024px) {
+    .wrp {
+        width: 960px;
+    }
+
+    #YDPTInner {
+        width: 960px;
+    }
+    .userCenter-wrap{
+        width: 960px
+    }
+    div.course-index-content{
+        width: 960px;
+    }
+    div.tag-text-btn-con{
+        width: 960px;
+    }
+    div.course-index-slide{
+        width:960px;
+        margin-top:3px;
+    }
+   .speaking-page .course-slide-list{
+        width:960px;
+        height:280px;
+    }
+    .speaking-page .course-index-content.speakingmax .course-selector a {
+        margin-right: 15px;
+    }
+    #courseSelectCover{
+        width:920px;
+    }
+   .index-banner{
+        width:960px;
+    }
+
+    /*首页 自适应屏幕，兼容pc和pad*/
+    #lessons .lesson-entry {
+        width: 30.5%;
+        margin-right: 2%
+    }
+
+    #lessons .lesson-entry:last-child {
+        margin-right: 0;
+    }
+
+    /*-------双语阅读 自适应屏幕，兼容pc和pad------*/
+    #bilingual .bilingual-class-list {
+        float: none;
+        width: 100%;
+        height: 120px;
+        margin-left: 0;
+        background: #F8F8F8;
+    }
+
+    #bilingual .bilingual-content {
+        min-width: 740px;
+    }
+
+    .bilingual-class-list  .bilingual-class {
+        margin-right: 1px;
+        float: left;
+        width: 246px;
+    }
+
+    .bilingual-class-list #lesson3 {
+        margin-right: 0;
+    }
+
+    #bilingual .bilingual-class a {
+        width: 100%;
+        height: 110px;
+        display: inline-block;
+        padding: 0;
+    }
+
+    .bilingual-class .order em {
+        display: block;
+        padding: 0 3px;
+    }
+
+    .bilingual-class .class-title {
+        padding: 28px 5px 0 5px;;
+    }
+
+    .bilingual-class .class-title p {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        -o-text-overflow: ellipsis;
+    }
+
+    .bilingual-class .class-cite {
+        padding-left: 5px;
+    }
+
+    #bilingual .bilingual-class .order {
+        width: 100%;
+        min-height: 20px;
+        height: 20px;
+    }
+
+    /*-------ting english page-------*/
+    .micro {
+        padding: 0;
+    }
+
+    #goTopNav {
+        margin-left: 440px;
+    }
+
+    /*视听堂首页*/
+    #voiceNav li {
+        margin-right: 20px;
+    }
+    /*视听首页-分类视频*/
+    .video-data-list li{
+       padding-right: 40px;
+    }
+    /*课程首页*/
+    .course-cells li{
+        margin:0 40px 40px 0;
+    }
+}

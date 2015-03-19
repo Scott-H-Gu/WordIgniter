@@ -1,0 +1,39 @@
+﻿Since becoming Yahoo's CEO almost two years ago, Marissa Mayer has promoted her theme of "digital daily habits." Yahoo's turnaround would include a major push into mobile, re-engaging with the company's large audience on a daily basis through its large portfolio of apps.
+
+玛丽莎•梅耶尔大概两年前就任雅虎（Yahoo）首席执行官一职，从那时起，她一直致力于宣传自己的“数字化生活习惯”主题。雅虎大举进军移动领域，每天通过大量的应用程序与公司的海量用户重新实现互动。
+
+Mayer's strategy for this includes buying 36 mobile startups and Tumblr. It includes relaunching Flickr, the photo-sharing site, and giving away a terabyte of data to each user. It includes launching new mail, weather, news apps.
+
+梅耶尔的战略包括收购36家移动新创企业以及微博客服务Tumblr；重新推出照片分享网站Flickr，同时向每位用户提供1TB的数据；此外，她还推出了新的邮件、天气和新闻应用。
+
+Some of the apps have been well-received by reviewers. But none have become top ten apps. According to App Annie's rankings of app downloads, only Yahoo Mail has made a dent, landing at #43 for iOS and #20 for Android. (Meanwhile, a game created in a few weeks by a 16-year-old in Florida called 4 Snaps has skyrocketed into the top spot for iOS apps in the Word category, the top 50 for Games, and top 200 overall, in a matter of weeks.)
+
+其中有些应用程序在评测人士中反响不错，但其中没有一个登上了应用榜单十强。据移动应用数据分析公司App Annie对应用下载量的统计，只有雅虎邮箱算是有所成就，在iOS平台上的所有应用中排在第43位，在Android平台上排名第20位。（而与此同时，美国佛罗里达州一位16岁少年花几周时间开发了一款叫做4 Snaps的游戏，短短几周就迅速坐上了iOS平台文字类应用的头把交椅，登上游戏类50强榜单，还在所有应用中挤进了前200位。）
+
+Fortune's latest cover story asks whether Mayer can save Yahoo. This year, for the first time in nine years, Yahoo (YHOO) will not be a part of the Fortune 500.
+
+《财富》杂志（Fortune）最新一期的封面故事提出了一个问题：梅耶尔能否拯救雅虎？今年，雅虎将无缘《财富》美国500强榜单，这是九年来的头一遭。
+
+On stage at the TechCrunch Disrupt conference today, Mayer admitted to Yahoo's struggles with mobile. "Last year was the year we began to make investment in mobile, " she said.
+
+日前，在TechCrunch Disrupt大会上，梅耶尔在台上承认雅虎的移动业务挑战重重。她说：“去年是我们开始投资于移动业务的一年。”
+
+"We're late. We're behind, " she said, adding that Yahoo has "made great strides" since she joined the company. She is proud of changes to Yahoo's mail app, its weather app, and Tumblr's mobile app over the last year. Engagement has picked up, she said. Yahoo is working on a new games platform and is continually improving its communications tools, which are the two most-engaging ways people use mobile phones.
+
+梅耶尔说：“我们起步晚了，掉队了。”她补充道，自她加盟以来，雅虎 “取得了巨大的进步”。过去一年，雅虎的邮件应用、天气应用以及Tumblr移动应用都做出了改变，梅耶尔为此感到骄傲。她表示，（用户）参与度在提升。雅虎正在开发新的游戏平台，同时也在继续改善自己的通讯工具，而游戏和通讯正是人们使用手机时间最长的两种方式。
+
+Getting mobile right is "a really critical issue, and a missed opportunity, " Mayer said. When she arrived, very few people were working on mobile products at Yahoo; now Yahoo has hundreds of mobile developers. By the end of this year, Yahoo's mobile users (currently 430 million monthly) will overtake its desktop users, Mayer said.
+
+梅耶尔表示，正确发展移动业务是“一个非常重要的问题，也是（雅虎）错失的一个机会。”她刚到雅虎时，雅虎只有很少人在开发移动产品；现在，雅虎已有数百名移动开发人员。梅耶尔还表示，到今年年底，雅虎的移动用户数（目前每月为4.3亿）将超过台式机用户数。
+
+It was a rare admission of shortcomings in an otherwise politic interview. At one point her interviewer, Michael Arrington, became frustrated with Mayer's perfectly on-message answers. "I cannot throw you off, " he said. "It's annoying to me that I can't."
+
+梅耶尔在采访中难得地承认了雅虎的短板，否则，这次采访不过又是另外一场官样文章。采访期间，采访者迈克尔•阿灵顿一度对梅耶尔与公司既定政策高度一致的回答大感不快。 “我总是没法诱导你（回答我的问题）” 阿灵顿说。“这让我很恼火。”
+
+Mayer was careful not to reveal anything about the biggest topic of speculation around Yahoo: Alibaba. When the Chinese Internet giant goes public later this year, Yahoo is expected to reap a windfall of $10 billion. What will it do with the proceeds? According to Mayer, Yahoo will be a "good steward of capital."
+
+梅耶尔十分谨慎，对于人们猜测最多的阿里巴巴问题三缄其口。中国互联网巨头将于今年晚些时候上市，届时，雅虎预计将获得100亿美元的意外之财。这笔钱怎么花？根据梅耶尔的回答，雅虎会当一个“资本的好管家”。
+
+"That sounds like it was written by a lawyer, " Arrington said.
+
+阿灵顿说：“这话听起来就像是律师写的一样。”（财富中文网）
